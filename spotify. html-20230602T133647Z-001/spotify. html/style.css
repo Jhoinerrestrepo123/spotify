@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0%;
+    color: black; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.playlist {
+    background-color: rgb(255, 255, 255);
+    background: linear-gradient(56deg, rgba(255, 255, 255, 1) 7%, rgba(15, 160, 238, 1) 23%, rgba(0, 212, 255, 1) 100%);
+}
+
+.nombre-playlist {
+    display: flex;
+    align-items: flex-end;
+}
+
+.imagen-lista img {
+    width: 280px;
+}
+
+.info-playlist {
+    margin-left: 40px
+}
+
+.lista-titulos {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.lista-titulo li {
+
+    font-size: 25px
+}
+
+.canciones img {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 50px;
+    height: 50px;
+}
+
+.canciones {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.canciones2 img {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 50px;
+    height: 50px;
+}
+
+.canciones2 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+.canciones3 img {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 50px;
+    height: 50px;
+}
+
+
+.canciones3 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+.canciones4 img {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 50px;
+    height: 50px;
+}
+
+.canciones4 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+.canciones5 img {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 50px;
+    height: 50px;
+}
+
+.canciones5 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    list-style: none;
+
+}
+li{
+    font-size: 20px;
+}
